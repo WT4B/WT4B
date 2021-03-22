@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi👋, 
 
+I am WT4B, a java developer located in Germany.
+- 🔭 I’m currently working on a still private network.
+- 😄 Join my Developer Discord: https://discord.gg/YKAgw7F
+- 🌱 I’m currently learning nothing :)
+- 📫 How to reach me:
+  - Discord: WT4B#0001
+  - Twitter: @WT4B_
 <!--
 **WT4B/WT4B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
