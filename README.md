@@ -1,9 +1,9 @@
 ### Hi👋, 
 
 I am WT4B, a java developer located in Germany.
-- 🔭 I’m currently working on a still private network.
+- 🔭 I’m currently working on some private stuff.
 - 😄 Join my Developer Discord: https://discord.gg/YKAgw7F
-- 🌱 I’m currently learning nothing :)
+- 🌱 In the future I will learn Kotlin :)
 - 📫 How to reach me:
   - Discord: WT4B#0001
   - Twitter: @WT4B_
