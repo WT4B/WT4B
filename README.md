@@ -5,7 +5,7 @@ I am WT4B, a java developer located in Germany.
 - 😄 Join my Developer Discord: https://discord.gg/YKAgw7F
 - 🌱 In the future I will learn Kotlin :)
 - 📫 How to reach me:
-  - Discord: WT4B#8209
+  - Discord: WT4B#0001
   - Twitter: @WT4B_
 - Follow me :)
 <!--
